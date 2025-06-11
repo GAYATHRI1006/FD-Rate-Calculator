@@ -4,7 +4,7 @@ A simple **Fixed Deposit (FD) Rate Calculator** built with **HTML**, **CSS**, an
 
 ## Demo
 
-[Live Demo](https://fd-rate-calculator-sample.netlify.app/)  
+🔗 [Live Demo](https://fd-rate-calculator-sample.netlify.app/)  
 
 ## Developed By
 **Gayathri G**  
